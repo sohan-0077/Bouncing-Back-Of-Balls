@@ -2,6 +2,6 @@
 hi!
 
 welcome to my game!
-its just a game filled with full game made by a engine called godot!
+its just a game filled with full game made by a game engine called godot!
 
-enjoy!
+enjoy! pandagoo !
